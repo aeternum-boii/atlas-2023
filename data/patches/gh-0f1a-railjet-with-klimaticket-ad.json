@@ -1,0 +1,55 @@
+{
+	"id": -1,
+	"name": "Railjet with Klimaticket Ad",
+	"description": "A Railjet (Austrian High Speed Train) with a wrap featuring an ad for the \"Klimaticket\", a cheap ticket that let's you use any public transportation in all of Austria for just 3 Euros a day.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Klimaticket",
+			"https://en.wikipedia.org/wiki/Railjet"
+		],
+		"subreddit": [
+			"placeAustria"
+		],
+		"discord": [
+			"f5ky84vGku"
+		]
+	},
+	"path": {
+		"50-51": [
+			[
+				-122,
+				-30
+			],
+			[
+				-117,
+				-46
+			],
+			[
+				-113,
+				-57
+			],
+			[
+				-73,
+				-56
+			],
+			[
+				-58,
+				-29
+			],
+			[
+				-62,
+				-27
+			],
+			[
+				-122,
+				-27
+			]
+		]
+	},
+	"center": {
+		"50-51": [
+			-92,
+			-42
+		]
+	}
+}
